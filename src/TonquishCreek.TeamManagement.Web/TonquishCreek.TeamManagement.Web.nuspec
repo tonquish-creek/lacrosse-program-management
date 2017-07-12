@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TonquishCreek.TeamManagement</id>
+    <title>Lacrosse Team Management by Tonquish Creek Software</title>
+    <version>$version$</version>
+    <description>Web application used to manage a high school men's lacrosse program.</description>
+    <authors>Tonquish Creek Software</authors>
+    <owners>Tonquish Creek Software</owners>
+    <copyright>Copyright © 2017 Tonquish Creek Software. All Rights Reserved.</copyright>
+    <projectUrl>https://github.com/tonquish-creek</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+    <tags>Lacrosse</tags>
+  </metadata>
+</package>
